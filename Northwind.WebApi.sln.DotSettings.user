@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/CodeInspection/Roslyn/RoslynEnabled/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=Northwind_002EInterface_002EServer_002FResources_002FLocalization_002FLoginRes/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=Northwind_002EInterface_002EServer_002FResources_002FLocalization_002FMainLayoutRes/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=Northwind_002EInterface_002EServer_002FResources_002FLocalization_002FNavMenuRes/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=Northwind_002EInterface_002EServer_002FResources_002FLocalization_002FOrderRes/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=Northwind_002EInterface_002EServer_002FResources_002FLocalization_002FRegisterRes/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=Northwind_002EInterface_002EServer_002FResources_002FLocalization_002FUserCardRes/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=Northwind_002EInterface_002EServer_002FResources_002FLocalization_002FUserInfoRes/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=Northwind_002EInterface_002EServer_002FResources_002FLocalization_002FUsersAdmRes/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=14692417_002Df670_002D4d7d_002Dbc82_002D5f4ce8de4570_0023Northwind_002EUnitTest/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=d600b5b1_002Df4e5_002D4d38_002D8d4f_002Dc1bc9957371e_0023Northwind_002ETestExperiments/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
